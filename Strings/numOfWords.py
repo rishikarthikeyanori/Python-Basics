@@ -1,8 +1,7 @@
-s=input("enter the string: ")
+s=input("enter the string: ")#hi my name is rishi_____
 count=0
-for ch in s.strip():
-    if ch==" ":
-        count+=1
-print(count+1)
+for wrds in s.split(','):#hi my name is rishi , my name is rishi
+    count+=1#count=1,count=2
+print(count)
 
 
