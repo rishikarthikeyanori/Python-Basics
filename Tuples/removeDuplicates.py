@@ -8,4 +8,4 @@ for x in t:
 
 result = tuple(lst)
 
-print(result)
+print(result)          

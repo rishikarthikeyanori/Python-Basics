@@ -3,6 +3,4 @@ count=0
 for i in range(len(list)):
     if type(list[i])==int :
         count+=1
-    else:
-        continue
 print(count)
