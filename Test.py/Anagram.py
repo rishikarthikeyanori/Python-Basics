@@ -17,11 +17,13 @@ else:
 
 
 
-# #listen    silent
+# #listen == silent
 # #for every character in string 1 
 # #1st iteration =l
 # # s2 lo l undha 
-# #okavela unte anagram for that iteration 
+# #okavela unte anagram for that iteration
+
+
 
 
 
